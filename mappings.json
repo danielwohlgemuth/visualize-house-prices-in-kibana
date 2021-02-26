@@ -1,0 +1,247 @@
+{
+  "properties": {
+    "$Value of miscellaneous feature": {
+      "type": "long"
+    },
+    "Above grade (ground) living area square feet": {
+      "type": "long"
+    },
+    "Basement full bathrooms": {
+      "type": "long"
+    },
+    "Basement half bathrooms": {
+      "type": "long"
+    },
+    "BedroomAbvGr": {
+      "type": "long"
+    },
+    "Central air conditioning": {
+      "type": "keyword"
+    },
+    "Condition of sale": {
+      "type": "keyword"
+    },
+    "Electrical system": {
+      "type": "keyword"
+    },
+    "Enclosed porch area in square feet": {
+      "type": "long"
+    },
+    "Evaluates the general condition of the basement": {
+      "type": "keyword"
+    },
+    "Evaluates the height of the basement": {
+      "type": "keyword"
+    },
+    "Evaluates the present condition of the material on the exterior": {
+      "type": "keyword"
+    },
+    "Evaluates the quality of the material on the exterior": {
+      "type": "keyword"
+    },
+    "Exterior covering on house": {
+      "type": "keyword"
+    },
+    "Exterior covering on house (if more than one material)": {
+      "type": "keyword"
+    },
+    "Fence quality": {
+      "type": "keyword"
+    },
+    "Fireplace quality": {
+      "type": "keyword"
+    },
+    "First Floor square feet": {
+      "type": "long"
+    },
+    "Flatness of the property": {
+      "type": "keyword"
+    },
+    "Full bathrooms above grade": {
+      "type": "long"
+    },
+    "Garage condition": {
+      "type": "keyword"
+    },
+    "Garage location": {
+      "type": "keyword"
+    },
+    "Garage quality": {
+      "type": "keyword"
+    },
+    "General shape of property": {
+      "type": "keyword"
+    },
+    "Half baths above grade": {
+      "type": "long"
+    },
+    "Heating quality and condition": {
+      "type": "keyword"
+    },
+    "Home functionality (Assume typical unless deductions are warranted)": {
+      "type": "keyword"
+    },
+    "Id": {
+      "type": "long"
+    },
+    "Identifies the general zoning classification of the sale_": {
+      "type": "keyword"
+    },
+    "Identifies the type of dwelling involved in the sale_": {
+      "type": "keyword"
+    },
+    "Interior finish of the garage": {
+      "type": "keyword"
+    },
+    "Kitchen quality": {
+      "type": "keyword"
+    },
+    "KitchenAbvGr": {
+      "type": "long"
+    },
+    "Linear feet of street connected to property": {
+      "type": "double"
+    },
+    "Lot configuration": {
+      "type": "keyword"
+    },
+    "Lot size in square feet": {
+      "type": "long"
+    },
+    "Low quality finished square feet (all floors)": {
+      "type": "long"
+    },
+    "Masonry veneer area in square feet": {
+      "type": "double"
+    },
+    "Masonry veneer type": {
+      "type": "keyword"
+    },
+    "Miscellaneous feature not covered in other categories": {
+      "type": "keyword"
+    },
+    "Month Sold (MM)": {
+      "type": "long"
+    },
+    "Number of fireplaces": {
+      "type": "long"
+    },
+    "Open porch area in square feet": {
+      "type": "long"
+    },
+    "Original construction date": {
+      "type": "long"
+    },
+    "Paved driveway": {
+      "type": "keyword"
+    },
+    "Physical locations within Ames city limits": {
+      "type": "keyword"
+    },
+    "Pool area in square feet": {
+      "type": "long"
+    },
+    "Pool quality": {
+      "type": "keyword"
+    },
+    "Proximity to various conditions": {
+      "type": "keyword"
+    },
+    "Proximity to various conditions (if more than one is present)": {
+      "type": "keyword"
+    },
+    "Rates the overall condition of the house": {
+      "type": "keyword"
+    },
+    "Rates the overall material and finish of the house": {
+      "type": "keyword"
+    },
+    "Rating of basement finished area": {
+      "type": "keyword"
+    },
+    "Rating of basement finished area (if multiple types)": {
+      "type": "keyword"
+    },
+    "Refers to walkout or garden level walls": {
+      "type": "keyword"
+    },
+    "Remodel date (same as construction date if no remodeling or additions)": {
+      "type": "long"
+    },
+    "Roof material": {
+      "type": "keyword"
+    },
+    "SalePrice": {
+      "type": "long"
+    },
+    "Screen porch area in square feet": {
+      "type": "long"
+    },
+    "Second floor square feet": {
+      "type": "long"
+    },
+    "Size of garage in car capacity": {
+      "type": "long"
+    },
+    "Size of garage in square feet": {
+      "type": "long"
+    },
+    "Slope of property": {
+      "type": "keyword"
+    },
+    "Style of dwelling": {
+      "type": "keyword"
+    },
+    "Three season porch area in square feet": {
+      "type": "long"
+    },
+    "Total rooms above grade (does not include bathrooms)": {
+      "type": "long"
+    },
+    "Total square feet of basement area": {
+      "type": "long"
+    },
+    "Type 1 finished square feet": {
+      "type": "long"
+    },
+    "Type 2 finished square feet": {
+      "type": "long"
+    },
+    "Type of alley access to property": {
+      "type": "keyword"
+    },
+    "Type of dwelling": {
+      "type": "keyword"
+    },
+    "Type of foundation": {
+      "type": "keyword"
+    },
+    "Type of heating": {
+      "type": "keyword"
+    },
+    "Type of road access to property": {
+      "type": "keyword"
+    },
+    "Type of roof": {
+      "type": "keyword"
+    },
+    "Type of sale": {
+      "type": "keyword"
+    },
+    "Type of utilities available": {
+      "type": "keyword"
+    },
+    "Unfinished square feet of basement area": {
+      "type": "long"
+    },
+    "Wood deck area in square feet": {
+      "type": "long"
+    },
+    "Year Sold (YYYY)": {
+      "type": "long"
+    },
+    "Year garage was built": {
+      "type": "double"
+    }
+  }
+}
